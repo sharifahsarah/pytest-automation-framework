@@ -1,6 +1,6 @@
 # Software QA Automation Portfolio
 
-Hi!I'm Sarah, a Software Tester
+Hi! I'm Sarah, a Software Tester. 
 This repository contains my QA portfolio, including manual testing projects and my journey into test automation.
 
 Automation testing portfolio using Python and Pytest.
