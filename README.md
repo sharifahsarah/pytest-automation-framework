@@ -2,10 +2,15 @@
 
 Hi! I'm Sarah, a Software Tester. 
 
-This repository contains my QA portfolio, including manual testing projects and my journey into test automation.
+Welcome to my QA Automation Portfolio
+
+This repository showcases my automation testing projects and continuous learning journey in software quality assurance.
 
 ## Skills
-- Automation Testing ( Framework: Pytest | language: Python | Reporting : Allure Report)
+- Automation Testing
+  * Framework: Pytest
+  * language: Python
+  * Reporting : Allure Report)
 - Functional Testing
 - Regression Testing
 - API Testing
