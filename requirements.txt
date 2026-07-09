@@ -1,4 +1,4 @@
-selenium
+selenium>=4.10
 pytest
 webdriver-manager
 allure-pytest
